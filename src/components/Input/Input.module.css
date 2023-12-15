@@ -1,0 +1,42 @@
+div {
+  width: 100%;
+  margin: 0 auto;
+}
+label {
+  display: flex;
+  width: 80%;
+  /* margin: 0 auto; */
+}
+textarea {
+  margin-top: 1em;
+  width: 100%;
+  padding: 1.3em;
+  border: 2px solid black;
+  box-shadow: 2px 2px 2px 2px rgb(223, 222, 221);
+  border-radius: 4px;
+}
+button {
+  margin: 1.3em 0;
+}
+
+ul {
+  border: 1px solid black;
+  border-radius: 3px;
+  display: block;
+  margin-top: 1.4em;
+  font-size: 1em;
+  height: 60vh;
+  overflow: scroll;
+  width: 100%;
+  padding: 0 0.3em;
+}
+li{
+    margin: 0;
+    padding: 0;
+    border: 1px solid black;
+    font-size: small;
+    margin-top: 1em;
+    border-radius: 3px;
+    background: rgb(237, 230, 222);
+    color: black;
+}
